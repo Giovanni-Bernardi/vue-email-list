@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    background-color: rgb(32, 32, 32);
+    background-image: url(../gif/MATRIX.gif);
+  }
+  
+  .container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    color: rgb(10, 143, 10);
+
+  }
+  
+  ol li {
+    margin: 10px;
+    font-size: 20px;
+    color: rgb(156, 247, 21);
+    list-style-type: none;
+  }
